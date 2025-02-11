@@ -1,3 +1,5 @@
 bot-wallet.json 
 bot-wallet.json 
 node_modules/
+marketData.db
+*.json
